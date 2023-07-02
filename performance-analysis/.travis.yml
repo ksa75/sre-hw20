@@ -1,0 +1,10 @@
+language: python
+install:
+- pip install tox
+script:
+- tox
+
+matrix:
+  include:
+  - env: TOXENV=py310
+    python: 3.10
