@@ -1,0 +1,22 @@
+Домашнее задание
+Проверить на практике алгоритмы распределения нагрузки
+
+Цель:
+Закрепить понимание алгоритмов распределения нагрузки
+Обучиться работе с Jupyter для визуализации и симуляции процессов
+
+
+Описание/Пошаговая инструкция выполнения домашнего задания:
+1.Склонируйте репозиторий https://github.com/jolynch/performance-analysis
+2. Запустите симуляцию очередей https://github.com/jolynch/performance-analysis/blob/master/notebooks/queueing_theory/queueing_analysis.ipynb
+3. Запустите симуляцию Load Balancer https://github.com/jolynch/performance-analysis/blob/master/notebooks/queueing_theory/load_balancing_analysis.ipynb
+
+
+Критерии оценки:
+6/10 запущены эмуляциии
+8/10 правильный ответ на вопрос "Какие настройки LB имеют наименьший latency по 95 перцентилю?"
+10/10 правильный ответ на вопрос "Какая очередь наиболее эффективна по 95 перцентилю?"
+
+
+Рекомендуем сдать до:
+Статус: принято (10 баллов) 
